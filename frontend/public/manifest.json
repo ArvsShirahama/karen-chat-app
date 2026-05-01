@@ -7,28 +7,30 @@
   "dir": "ltr",
   "icons": [
     {
-      "src": "logo192.png",
+      "src": "img5.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "maskable"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any"
-    },
-    {
-      "src": "logo512.png",
+      "src": "img5.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "img1.png",
+      "type": "image/png",
+      "sizes": "1024x768",
+      "form_factor": "wide"
+    },
+    {
+      "src": "img2.png",
+      "type": "image/png",
+      "sizes": "1024x768",
+      "form_factor": "wide"
     }
   ],
   "start_url": "/",
